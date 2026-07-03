@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>level/level1.txt</file>
+        <file>level/level2.txt</file>
+        <file>level/level3.txt</file>
+        <file>level/level4.txt</file>
+        <file>images/tree.png</file>
+        <file>images/book.png</file>
+        <file>images/box.png</file>
+        <file>images/door.png</file>
+        <file>images/fish.png</file>
+        <file>images/gold.png</file>
+        <file>images/hardwood.png</file>
+        <file>images/jar.png</file>
+        <file>images/lake.png</file>
+        <file>images/npc_1.png</file>
+        <file>images/npc_2.png</file>
+        <file>images/npc_3.png</file>
+        <file>images/npc_4.png</file>
+        <file>images/player.png</file>
+        <file>images/rock.png</file>
+        <file>images/stone.png</file>
+        <file>images/worm.png</file>
+        <file>images/zombie.png</file>
+        <file>images/cg.png</file>
+    </qresource>
+</RCC>
